@@ -2,4 +2,4 @@
 
 The most recent versions updated.
 
-Errors corrected in doncumentation
+Errors corrected in documentation
